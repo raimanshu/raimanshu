@@ -27,12 +27,16 @@ Here are some ideas to get you started:
   <!-- ## Profile Activity Generator  -->
   <!-- ## Spotify Github Profile -->
 
+******** Working on the page.... ******************
   ## My Social Media Handles 
 
 > Wanna get in touch ...
 
- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
- 
+ [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96) <br/>
+ Linkedin - https://linkedin.com/in/himanshu-rai-377306128 <br/>
+Instagram - https://instagram.com/in/kiranshu.yaduvanshi <br/>
+cssbattle - https://cssbattle.dev/player/raimanshu <br/>
+Github - https://github.com/raimanshu/raimanshu <br/>
 
 
 ## My favorite tools and technologies ⚙️
