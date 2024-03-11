@@ -27,16 +27,41 @@ Here are some ideas to get you started:
   <!-- ## Profile Activity Generator  -->
   <!-- ## Spotify Github Profile -->
 
-******** Working on the page.... ******************
-  ## My Social Media Handles 
+
+## About Me
+
+  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Little bit about me...
+
+- I am  developer...👨‍💻...designer...👨‍🎨...batman...🦇
+- Currently working on something cool 😁😎 
+- 🌱 I’m currently learning devops 🤯
+- 💬 Ask me about anything related to
+   * Designing  
+   * Frontend  
+   * Backend 
+   * Database 
+- ⚡ Fun fact: I like ::Anime 😍 
+   * Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
+
+
+## My Social Media Handles 
 
 > Wanna get in touch ...
 
- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96) <br/>
- Linkedin - https://linkedin.com/in/himanshu-rai-377306128 <br/>
-Instagram - https://instagram.com/in/kiranshu.yaduvanshi <br/>
+
+   [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
+   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
+   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
+  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
+
+
+> For practice ... ... and more!
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/raimanshu/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
+
 cssbattle - https://cssbattle.dev/player/raimanshu <br/>
-Github - https://github.com/raimanshu/raimanshu <br/>
 
 
 ## My favorite tools and technologies ⚙️
