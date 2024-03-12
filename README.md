@@ -52,7 +52,7 @@ Little bit about me...
 
 
    </div></td>
-    <td align="center"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="200" height="400"> </div></td>
+    <td align="center" width="25%"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="200" height="400"> </div></td>
  </tr>
 </table>
 
