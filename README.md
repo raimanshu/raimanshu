@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-<table border="0" width="100%" height=>
+<table width="100%" height=>
 
  <tr>
     <td width="50%"><div>   
