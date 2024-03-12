@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   <!-- ## Spotify Github Profile -->
 
 
+
+
+<table border="0" width="100%" height=>
+
+ <tr>
+    <td width="50%"><div>   
 ## About Me
 
   ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
@@ -43,6 +49,14 @@ Little bit about me...
    * Database 
 - ⚡ Fun fact: I like ::Anime 😍 
    * Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
+
+
+   </div></td>
+    <td align="center"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="200" height="400"> </div></td>
+ </tr>
+</table>
+
+
 
 
 ## My Social Media Handles 
@@ -62,7 +76,6 @@ Little bit about me...
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
 
 cssbattle - https://cssbattle.dev/player/raimanshu <br/>
-
 
 ## My favorite tools and technologies ⚙️
 
