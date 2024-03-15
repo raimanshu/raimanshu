@@ -49,7 +49,7 @@ pie showData
 
 <span style="vertical-align:middle;">
 
-## <img src="https://media3.giphy.com/media/xTiTnoieCQLmBcZbvq/giphy.webp?cid=ecf05e47orkzu5puxxg9afsg8kz03ntds47hmt6im8tvzg1a&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px">      **raimanshu**           <img src="https://media2.giphy.com/media/35Ra9WvTu2Mt6OWF5u/giphy.webp?cid=790b76119un890ih1wev17tz2sejbopjzjeeykgkwpki7svb&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px">
+## <img src="./left.webp" width="30px">      **raimanshu**           <img src="./right.webp" width="30px">
 
 </span>
  </div>
