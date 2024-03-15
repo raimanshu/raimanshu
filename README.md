@@ -27,7 +27,40 @@ Here are some ideas to get you started:
   <!-- ## Profile Activity Generator  -->
   <!-- ## Spotify Github Profile -->
 
+```mermaid 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
 
+ ```
+
+ <div>  
+ <div> test  </div>    <div>  test </div>
+ 
+  </div>
+<div style="display: flex; flex-direction: row;">
+ <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
+
+
+ <div> 
+ 
+ ```mermaid 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+
+ ```
+   </div>
+ <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
+</div>
 
 
 <table width="100%" height=>
@@ -154,3 +187,22 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
  <tr>
  </tr>
 </table>
+
+## My Technical Statistics ⚙️
+
+> LeetCode Status....
+
+ ```mermaid 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+
+ ```
+
+
+
+> GeeksForGeeks Status....
