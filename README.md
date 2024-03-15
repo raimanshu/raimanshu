@@ -39,47 +39,12 @@ pie showData
  ``` -->
 
 
-
-
-
-
-## About Me
-
-  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-> Little bit about me...
-
-
-<div style="display: flex; flex-direction: row;">
- <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
-
-
-
- <div width="20"> 
-
-
-- I am  developer...👨‍💻...designer...👨‍🎨...batman...🦇
-- Currently working on something cool 😁😎 
-- 🌱 I’m currently learning devops 🤯
-- 💬 Ask me about anything related to
-   * Designing  
-   * Frontend  
-   * Backend 
-   * Database 
-- ⚡ Fun fact: I like ::Anime 😍 
-   * Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
-
-   </div>
-
-
-<img src="./obito.jpg" alt="Girl in a jacket" width="200" height="200">
-</div>
-
 ## About Me
 
   ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 > Little bit about me...
 > 
-<table width="100%" height=>
+<table width="100%" >
 
  <tr>
     <td width="50%"><div>   
@@ -97,7 +62,7 @@ pie showData
 
 
    </div></td>
-    <td align="center" width="25%"  style="border:none;"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="200" height="400"> </div></td>
+    <td align="center" width="25%"  style="border:none;"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="175" height="250"> </div></td>
  </tr>
 </table>
 
