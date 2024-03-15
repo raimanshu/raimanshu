@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <!-- ## Profile Activity Generator  -->
   <!-- ## Spotify Github Profile -->
 
-```mermaid 
+<!-- ```mermaid 
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Key elements in Product X
@@ -36,30 +36,42 @@ pie showData
     "Magnesium" : 10.01
     "Iron" :  5
 
- ```
+ ``` -->
 
- <div>  
- <div> test  </div>    <div>  test </div>
- 
-  </div>
+
+
+
+
+
+ ## About Me
+
+  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Little bit about me...
+
+
 <div style="display: flex; flex-direction: row;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
 
- <div> 
- 
- ```mermaid 
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
 
- ```
+ <div width="20"> 
+
+
+- I am  developer...👨‍💻...designer...👨‍🎨...batman...🦇
+- Currently working on something cool 😁😎 
+- 🌱 I’m currently learning devops 🤯
+- 💬 Ask me about anything related to
+   * Designing  
+   * Frontend  
+   * Backend 
+   * Database 
+- ⚡ Fun fact: I like ::Anime 😍 
+   * Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
+
    </div>
- <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
+
+
+<img src="./obito.jpg" alt="Girl in a jacket" width="200" height="200">
 </div>
 
 
@@ -190,12 +202,33 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 
 ## My Technical Statistics ⚙️
 
-> LeetCode Status....
+> LeetCode && GeeksForGeeks Status....
+<div style="display: flex; flex-direction: row;">
+ <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
+
+ <div width="50%"> 
+ 
  ```mermaid 
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    title Key elements in Product X
+    title "LeetCode"
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+
+ ```
+   </div>
+
+
+ <div width="50%"> 
+    
+ 
+ ```mermaid 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title GeeksForGeeks
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
@@ -203,6 +236,11 @@ pie showData
 
  ```
 
+ 
+ </div> 
+   </div>
+ <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
+</div>
 
 
 > GeeksForGeeks Status....
