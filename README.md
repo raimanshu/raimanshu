@@ -38,11 +38,40 @@ pie showData
 
  ``` -->
 
+<!-- | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 | -->
 
-## About Me
+<div align="center"> 
+<!-- 😄😏😎 -->
 
-  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-> Little bit about me...
+<span style="vertical-align:middle;">
+
+## <img src="https://media3.giphy.com/media/xTiTnoieCQLmBcZbvq/giphy.webp?cid=ecf05e47orkzu5puxxg9afsg8kz03ntds47hmt6im8tvzg1a&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px">      **raimanshu**           <img src="https://media2.giphy.com/media/35Ra9WvTu2Mt6OWF5u/giphy.webp?cid=790b76119un890ih1wev17tz2sejbopjzjeeykgkwpki7svb&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20px">
+
+</span>
+ </div>
+ <div align="center"> 
+
+  [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
+   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
+   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
+  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
+
+ </div>
+ <div align="center"> 
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/raimanshu/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
+
+ </div>
+
+<!-- ## About Me -->
+
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+> Little bit about myself...
 > 
 <table width="100%" >
 
@@ -65,27 +94,6 @@ pie showData
     <td align="center" width="25%"  style="border:none;"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="175" height="250"> </div></td>
  </tr>
 </table>
-
-
-
-
-## My Social Media Handles 
-
-> Wanna get in touch ...
-
-
-   [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
-   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
-  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
-
-
-> For practice ... ... and more!
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/raimanshu/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
-
-cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 
 ## My favorite tools and technologies ⚙️
 
@@ -164,6 +172,30 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
  <tr>
  </tr>
 </table>
+
+
+
+******** WIP ************
+
+
+## My Social Media Handles 
+
+> Wanna get in touch ...
+
+
+   [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
+   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
+   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
+  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
+
+
+> For practice ... ... and more!
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/raimanshu/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
+
+cssbattle - https://cssbattle.dev/player/raimanshu <br/>
+
 
 ## My Technical Statistics ⚙️
 
