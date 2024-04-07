@@ -213,38 +213,35 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 <table>
   <tr>
     <td>
-      <pre lang="mermaid">
-graph TD
-A[(29L)] ~~~ C[(20L)]
-B[(3L)]  ~~~ C[(20L)]
-
-</pre>
+      <pre class="mermaid"><code> 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+   title LeetCode
+   "Easy" : 42.96
+   "Medium" : 50.05
+   "Hard" : 10.01
+    </code></pre>
     </td>
     <td>
-    <p>Hello</p>
+      <pre class="mermaid"><code> 
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+   title GeeksForGeeks
+   "School" : 42.96
+   "Basic" : 50.05
+   "Easy" : 10.01
+    "Medium" : 10.01
+    "Hard" : 10.01
+    </code></pre>
     </td>
   </tr>
 </table>
 
-<div style="display: flex;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
- <div width="50%"> 
 
-  ```mermaid 
-  %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-  pie showData
-      title "LeetCode"
-      "Calcium" : 42.96
-      "Potassium" : 50.05
-      "Magnesium" : 10.01
-      "Iron" :  5
 
-  ```
-</div>
-<div width="50%">
-
-```mermaid
+<!-- ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
    title GeeksForGeeks
@@ -253,9 +250,9 @@ pie showData
    "Magnesium" : 10.01
    "Iron" :  5
 
-```
-</div> 
-</div>
+``` -->
+
+
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
 </div>
 
