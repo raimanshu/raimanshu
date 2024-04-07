@@ -214,7 +214,6 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
   <tr>
     <td>
       <pre class="mermaid"><code> 
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
    title LeetCode
    "Easy" : 42.96
@@ -239,8 +238,6 @@ pie showData
 
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
-
-
 <!-- ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
@@ -251,7 +248,6 @@ pie showData
    "Iron" :  5
 
 ``` -->
-
 
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
 </div>
