@@ -100,85 +100,85 @@ pie showData
 
 <table>
   <tr>
-    <td>
+     <td  align="center">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>
-      <p align="center"> React </p>
+      <p> React </p>
     </td>
-    <td    >
+     <td  align="center" >
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>
          <p align="center"> Python </p>
     </td>
-    <td    >
+     <td  align="center"  >
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>
          <p align="center"> Javascript </p>
     </td>
-    <td    >
+     <td  align="center"  >
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>
          <p align="center"> MySQL </p>
     </td>
-       <td    >
+        <td  align="center"  >
         <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="icon" width="65" height="65" />
       <br>
          <p align="center"> Flask </p>
     </td>
-       <td    >
+        <td  align="center"  >
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>
          <p align="center"> Github </p>
     </td>
-          <td    >
+           <td  align="center"  >
         <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="65" height="65" alt="Rest API" />
       <br>
          <p align="center"> Angular </p>
     </td>
-          <td    >
+           <td  align="center"  >
         <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="65" height="65" alt="Rest API" />
       <br>
          <p align="center"> Typescript </p>
     </td>
   <tr>
-    <td    >
+     <td  align="center"  >
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>
          <p align="center"> Git </p>
     </td>
-    <td     >
+     <td  align="center"   >
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>
          <p align="center"> HTML </p>
     </td>
-    <td    >
+     <td  align="center"  >
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>
          <p align="center"> CSS </p>
     </td>
-    <td     >
+     <td  align="center"   >
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>
          <p align="center"> Bootstrap </p>
     </td>
-    <td    >
+     <td  align="center"  >
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>
          <p align="center"> Tailwind </p>
     </td>
-        <td    >
+         <td  align="center"  >
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>
          <p align="center"> JQuery </p>
     </td>
-        <td    >
+         <td  align="center"  >
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>
          <p align="center"> Postman </p>
     </td>
-            <td   >
+             <td  align="center" >
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>
          <p align="center"> Linux </p>
@@ -188,7 +188,7 @@ pie showData
  </tr>
 </table>
 
-**\*\*\*\*** WIP ****\*\*\*\*****
+**\*\*\*\*** WIP \***\*\*\*\*\*\*\***
 
 ## My Social Media Handles
 
@@ -213,22 +213,22 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 <table>
   <tr>
     <td>
-      <p>
+      <div>
       Hello
-      </p>
+      </div>
     </td>
     <td>
     <p>Hello</p>
     </td>
   </tr>
-</table>  
+</table>
 
 <div style="display: flex; flex-direction: row;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
  <div width="50%"> 
  
- ```mermaid 
+```mermaid 
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title "LeetCode"
@@ -237,7 +237,7 @@ pie showData
     "Magnesium" : 10.01
     "Iron" :  5
 
-```
+````
   </div>
 
 
