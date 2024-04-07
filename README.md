@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
   https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png -->
 
-
-
   <!-- HELP ::: https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file -->
 
   <!-- ## Profile Activity Generator  -->
   <!-- ## Spotify Github Profile -->
 
-<!-- ```mermaid 
+<!-- ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
     title Key elements in Product X
@@ -49,19 +47,19 @@ pie showData
 
 <span style="vertical-align:middle;">
 
-## <img src="./left.webp" width="30px">      **raimanshu**           <img src="./right.webp" width="30px">
+## <img src="./left.webp" width="30px"> **raimanshu** <img src="./right.webp" width="30px">
 
 </span>
  </div>
- <div align="center"> 
+ <div align="center">
 
-  [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
-   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
-  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
+[![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
+[![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/in/kiranshu.yaduvanshi)
 
  </div>
- <div align="center"> 
+ <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/raimanshu/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raimanshu)
@@ -71,29 +69,30 @@ pie showData
 <!-- ## About Me -->
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 > Little bit about myself...
-> 
+
 <table width="100%" >
 
  <tr>
-    <td width="50%"><div>   
+    <td width="50%"><div>
 
-- I am  developer...👨‍💻...designer...👨‍🎨...batman...🦇
-- Currently working on something cool 😁😎 
+- I am developer...👨‍💻...designer...👨‍🎨...batman...🦇
+- Currently working on something cool 😁😎
 - 🌱 I’m currently learning devops 🤯
 - 💬 Ask me about anything related to
-   * Designing  
-   * Frontend  
-   * Backend 
-   * Database 
-- ⚡ Fun fact: I like ::Anime 😍 
-   * Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
+  - Designing
+  - Frontend
+  - Backend
+  - Database
+- ⚡ Fun fact: I like ::Anime 😍
 
+  - Death Note, Naruto, One Piece, Fairy Tail, Blue Lock, Hunter x Hunter, JJK, Spy x Family, One Punch Man, Demon Slayer ... and much more !!
 
-   </div></td>
-    <td align="center" width="25%"  style="border:none;"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="175" height="250"> </div></td>
- </tr>
-</table>
+     </div></td>
+      <td align="center" width="25%"  style="border:none;"><div> <img src="./obito.jpg" alt="Girl in a jacket" width="175" height="250"> </div></td>
+   </tr>
+  </table>
 
 ## My favorite tools and technologies ⚙️
 
@@ -101,93 +100,104 @@ pie showData
 
 <table>
   <tr>
-    <td width="96">
+    <td>
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <br>
+      <p align="center"> React </p>
     </td>
-    <td   width="96">
+    <td    >
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>
+         <p align="center"> Python </p>
     </td>
-    <td   width="96">
+    <td    >
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <br>
+         <p align="center"> Javascript </p>
     </td>
-    <td   width="96">
+    <td    >
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+      <br>
+         <p align="center"> MySQL </p>
     </td>
-       <td   width="96">
+       <td    >
         <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="icon" width="65" height="65" />
-      <br>Flask
+      <br>
+         <p align="center"> Flask </p>
     </td>
-       <td   width="96">
+       <td    >
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <br>
+         <p align="center"> Github </p>
     </td>
-          <td   width="96">
+          <td    >
         <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="65" height="65" alt="Rest API" />
-      <br>Angular
+      <br>
+         <p align="center"> Angular </p>
     </td>
-          <td   width="96">
+          <td    >
         <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="65" height="65" alt="Rest API" />
-      <br>TypeScript
+      <br>
+         <p align="center"> Typescript </p>
     </td>
   <tr>
-    <td   width="96">
+    <td    >
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <br>
+         <p align="center"> Git </p>
     </td>
-    <td    width="96">
+    <td     >
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <br>
+         <p align="center"> HTML </p>
     </td>
-    <td   width="96">
+    <td    >
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <br>
+         <p align="center"> CSS </p>
     </td>
-    <td    width="96">
+    <td     >
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      <br>
+         <p align="center"> Bootstrap </p>
     </td>
-    <td   width="96">
+    <td    >
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+      <br>
+         <p align="center"> Tailwind </p>
     </td>
-        <td   width="96">
+        <td    >
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+      <br>
+         <p align="center"> JQuery </p>
     </td>
-        <td   width="96">
+        <td    >
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+      <br>
+         <p align="center"> Postman </p>
     </td>
-            <td   width="96">
+            <td   >
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <br>
+         <p align="center"> Linux </p>
     </td>
   </tr>
  <tr>
  </tr>
 </table>
 
+**\*\*\*\*** WIP ****\*\*\*\*****
 
-
-******** WIP ************
-
-
-## My Social Media Handles 
+## My Social Media Handles
 
 > Wanna get in touch ...
 
-
-   [![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
-   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
-   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
-  [![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]( https://instagram.com/in/kiranshu.yaduvanshi)
-
+[![Linkedin URL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-rai-377306128)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/raimanshu/raimanshu)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raimanshu96.svg?style=social&label=Follow%20%40raimanshu96)](https://twitter.com/raimanshu96)
+[![Instagram URL](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/in/kiranshu.yaduvanshi)
 
 > For practice ... ... and more!
 
@@ -196,13 +206,25 @@ pie showData
 
 cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 
-
 ## My Technical Statistics ⚙️
 
 > LeetCode && GeeksForGeeks Status....
+
+<table>
+  <tr>
+    <td>
+      <p>
+      Hello
+      </p>
+    </td>
+    <td>
+    <p>Hello</p>
+    </td>
+  </tr>
+</table>  
+
 <div style="display: flex; flex-direction: row;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
-
 
  <div width="50%"> 
  
@@ -215,29 +237,27 @@ pie showData
     "Magnesium" : 10.01
     "Iron" :  5
 
- ```
-   </div>
+```
+  </div>
 
 
- <div width="50%"> 
-    
- 
- ```mermaid 
+<div width="50%">
+
+
+```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    title GeeksForGeeks
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+   title GeeksForGeeks
+   "Calcium" : 42.96
+   "Potassium" : 50.05
+   "Magnesium" : 10.01
+   "Iron" :  5
 
- ```
+````
 
- 
  </div> 
    </div>
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
 </div>
-
 
 > GeeksForGeeks Status....
