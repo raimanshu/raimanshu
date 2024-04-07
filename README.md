@@ -210,7 +210,7 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 
 > LeetCode && GeeksForGeeks Status....
 
-<!-- <table>
+<table>
   <tr>
     <td>
       <pre lang="mermaid">
@@ -224,23 +224,23 @@ B[(3L)]  ~~~ C[(20L)]
     <p>Hello</p>
     </td>
   </tr>
-</table> -->
+</table>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
  <div width="50%"> 
 
-```mermaid 
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title "LeetCode"
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+  ```mermaid 
+  %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+  pie showData
+      title "LeetCode"
+      "Calcium" : 42.96
+      "Potassium" : 50.05
+      "Magnesium" : 10.01
+      "Iron" :  5
 
-```
+  ```
 </div>
 <div width="50%">
 
