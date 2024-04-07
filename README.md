@@ -210,24 +210,27 @@ cssbattle - https://cssbattle.dev/player/raimanshu <br/>
 
 > LeetCode && GeeksForGeeks Status....
 
-<table>
+<!-- <table>
   <tr>
     <td>
-      <div>
-      Hello
-      </div>
+      <pre lang="mermaid">
+graph TD
+A[(29L)] ~~~ C[(20L)]
+B[(3L)]  ~~~ C[(20L)]
+
+</pre>
     </td>
     <td>
     <p>Hello</p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <div style="display: flex; flex-direction: row;">
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
  <div width="50%"> 
- 
+
 ```mermaid 
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
@@ -237,12 +240,9 @@ pie showData
     "Magnesium" : 10.01
     "Iron" :  5
 
-````
-  </div>
-
-
+```
+</div>
 <div width="50%">
-
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
@@ -253,10 +253,9 @@ pie showData
    "Magnesium" : 10.01
    "Iron" :  5
 
-````
-
- </div> 
-   </div>
+```
+</div> 
+</div>
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
 </div>
 
