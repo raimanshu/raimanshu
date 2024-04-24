@@ -222,23 +222,21 @@ pie showData
     </code></pre>
     </td>
     <td>
-      <pre class="mermaid"><code> 
+mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
    title GeeksForGeeks
-   "School" : 42.96
-   "Basic" : 50.05
-   "Easy" : 10.01
-    "Medium" : 10.01
-    "Hard" : 10.01
-    </code></pre>
+   "Calcium" : 42.96
+   "Potassium" : 50.05
+   "Magnesium" : 10.01
+   "Iron" :  5
     </td>
   </tr>
 </table>
 
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" /> -->
 
-<!-- ```mermaid
+```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
    title GeeksForGeeks
@@ -247,7 +245,7 @@ pie showData
    "Magnesium" : 10.01
    "Iron" :  5
 
-``` -->
+```
 
  <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" /> -->
 </div>
